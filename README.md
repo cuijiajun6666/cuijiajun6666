@@ -72,15 +72,6 @@ The University of Sydney
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=cuijiajun6666&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cuijiajun6666&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🎹 Beyond Coding
 
 - 🎹 ABRSM Grade 8 Piano
