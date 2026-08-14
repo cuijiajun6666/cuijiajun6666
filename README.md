@@ -12,28 +12,32 @@ Currently, I'm continuing to explore **full-stack software development and AI in
 
 ## 🚀 Featured Projects
 
-### 📊 PortSight — AI-Powered Investment Portfolio Analyzer
+### 📊 [PortSight — AI-Powered Investment Portfolio Analyzer](https://github.com/cuijiajun6666/PortSight)
+
 **SwiftUI · Python · REST APIs · Cloud Server · Git**
 
 A full-stack investment portfolio platform featuring a SwiftUI iOS client and cloud-hosted Python backend for AI-powered investment analysis and real-time market intelligence.
 
 ---
 
-### 🌍 LifeTrip — Intelligent Travel & Life Journey Companion
+### 🌍 [LifeTrip — Intelligent Travel & Life Journey Companion](https://github.com/cuijiajun6666/LifeTrip)
+
 **SwiftUI · Mapbox API · OpenAI API · SwiftData · Git**
 
 An intelligent travel companion combining background location tracking, travel history visualization, restaurant management, and AI-assisted travel planning.
 
 ---
 
-### 🍜 YumTrip — Smart Restaurant & Landmark Discovery
+### 🍜 [YumTrip — Smart Restaurant & Landmark Discovery](https://github.com/cuijiajun6666/YumTrip)
+
 **SwiftUI · Mapbox API · OpenAI API · SwiftData · Git**
 
 A location-aware restaurant and landmark discovery application featuring intelligent recommendations, personalized collections, and AI-assisted itinerary import.
 
 ---
 
-### 💬 Soliloquy — Conversational Personal Knowledge Manager
+### 💬 [Soliloquy — Conversational Personal Knowledge Manager](https://github.com/cuijiajun6666/Soliloquy)
+
 **SwiftUI · Mapbox API · OpenAI API · SwiftData · JSON · Git**
 
 A chat-based personal knowledge management application that reimagines note-taking as conversations with yourself.
