@@ -12,7 +12,7 @@ Currently, I'm continuing to explore **full-stack software development and AI in
 
 ## 🚀 Featured Projects
 
-### 📊 [PortSight — AI-Powered Investment Portfolio Analyzer](https://github.com/cuijiajun6666/PortSight-Backend)
+### 📊 [PortSight — AI-Powered Investment Portfolio Analyzer](https://github.com/cuijiajun6666/PortSight)
 
 **SwiftUI · Python · REST APIs · Cloud Server · Git**
 
